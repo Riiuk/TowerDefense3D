@@ -40,6 +40,7 @@ public class Turret : MonoBehaviour {
     public ParticleSystem efectoImpacto;
     [Tooltip("Objeto del LightPoint de la torreta Laser")]
     public Light efectoLuz;
+    public bool playLaser = false;
 
     
     private Transform objetivo;                 // Transform del objetivo
@@ -50,7 +51,7 @@ public class Turret : MonoBehaviour {
     // Use this for initialization
     void Start () {
         // Llamamos de forma repetida a la funcion ActualizarObjetivo
-        InvokeRepeating("ActualizarObjetivo", 0f, 0.5f);
+        InvokeRepeating("ActualizarObjetivo", 0f, .75f);
         // Asignamos la rotacionInicial de la torreta al transform al body de la torreta
         rotacionInicial = gameObject.transform;
 	}
@@ -74,6 +75,9 @@ public class Turret : MonoBehaviour {
         // Giramos la torreta
         GirarTorreta();
 
+        if (!playLaser)
+            FindObjectOfType<AudioManager>().Stop("Laser");
+
         // Si el laser esta activo, llamamos a la funcion de lanzar el rayo,
         // Si no, disparamos la bala como normalmente
         if (usarLaser) {
@@ -94,6 +98,7 @@ public class Turret : MonoBehaviour {
     /// Actualiza el objetivo al que apunta la torreta
     /// </summary>
     void ActualizarObjetivo() {
+        
         // Creamos un array de enemigos que llenamos segun los tags que encontremos de enemigos
         GameObject[] enemigos = GameObject.FindGameObjectsWithTag(tagEnemigo);
         // Calculamos la distancia mas corta
@@ -124,8 +129,13 @@ public class Turret : MonoBehaviour {
             objetivo = enemigoMasCerca.transform;
             // Instanciamos el Script de Enemy en la variable
             objetivoEnemy = enemigoMasCerca.GetComponent<Enemy>();
+
+            if (usarLaser)
+                playLaser = true;
+                FindObjectOfType<AudioManager>().Play("Laser");
         } else {
             objetivo = null;
+            FindObjectOfType<AudioManager>().Stop("Laser");
         }
     }
 
@@ -151,6 +161,8 @@ public class Turret : MonoBehaviour {
         Vector3 rotacion = Quaternion.Lerp(parteRotatoria.rotation, rotacionInicial.rotation, Time.deltaTime * velocidadDeGiro).eulerAngles;
         // Movemos la parte rotatoria hacia dicha posicion, de forma suavizada
         parteRotatoria.rotation = Quaternion.Euler(0f, rotacion.y, 0f);
+
+        playLaser = false;
     }
 
     /// <summary>
@@ -207,7 +219,6 @@ public class Turret : MonoBehaviour {
     /// </summary>
     void DañoLaser() {
         objetivoEnemy.RecibirDaño(dañoEnTiempo * Time.deltaTime);
-        FindObjectOfType<AudioManager>().Play("Laser");
     }
 
     /// <summary>

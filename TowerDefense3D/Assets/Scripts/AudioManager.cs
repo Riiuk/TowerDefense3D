@@ -59,8 +59,8 @@ public class AudioManager : MonoBehaviour
             Debug.LogWarning("El sonido '" + name + "' no se encuentra.");
             return;
         }
-
+        
         s.source.Stop();
     }
-
+    
 }
