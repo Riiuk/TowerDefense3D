@@ -15,11 +15,14 @@ public class Node : MonoBehaviour {
     public TurretBlueprint torretaMejorada;
     [HideInInspector]
     public bool estaMejorada = false;
-
+    [HideInInspector]
+    public bool esMejorable = false;
     private Renderer render;        // Componente Render del nodo
     private Color colorInicial;     // Color inicial del GameObject
 
     BuildManager buildManager;      // Variable de BuildManager para poder ser llamado desde otro sitio
+
+
 
     void Start() {
 
@@ -28,7 +31,7 @@ public class Node : MonoBehaviour {
         // Asignamos el color inicial a una variable
         colorInicial = render.material.color;
     }
-
+    
     /// <summary>
     /// Función de tipo Vector3 la cual la llenamos con la posición donde se debe construir la torreta
     /// </summary>
@@ -58,6 +61,7 @@ public class Node : MonoBehaviour {
         torretaMejorada = torretaBlueprint;
 
         GameObject efecto = (GameObject)Instantiate(buildManager.efectoConstruccion, ConseguirPosicion(), Quaternion.identity);
+        FindObjectOfType<AudioManager>().Play("Build");
         Destroy(efecto, buildManager.timepoDeDestruccion);
         // Sacamos un aviso por consola de ok y el Dinero que nos queda.
         Debug.Log("¡Torreta construida!");
@@ -67,12 +71,16 @@ public class Node : MonoBehaviour {
     /// Función que llamamos para mejorar la torreta
     /// </summary>
     public void MejorarTorreta() {
+
+        if (PlayerManager.Dinero >= torretaMejorada.costeMejora)
+        {
+            FindObjectOfType<AudioManager>().Play("Upgrade");
+        }
         // Si nuestro Dinero actual es menor que el coste de la torreta a construir, nos muetra un aviso
         if (PlayerManager.Dinero < torretaMejorada.costeMejora) {
             Debug.Log("¡No hay suficiente Dinero! - TODO: Mostrar en pantalla");
             return;
         }
-
         // Si por el contrario, tenemos Dinero, nos lo resta de nuestro total
         PlayerManager.Dinero -= torretaMejorada.costeMejora;
         // Destruimos la torreta por defecto

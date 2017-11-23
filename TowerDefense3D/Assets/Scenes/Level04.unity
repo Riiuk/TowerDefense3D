@@ -213,6 +213,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &5866384
 GameObject:
   m_ObjectHideFlags: 0
@@ -317,6 +318,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &9971589
 GameObject:
   m_ObjectHideFlags: 0
@@ -421,6 +423,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &44908264
 GameObject:
   m_ObjectHideFlags: 0
@@ -525,6 +528,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!4 &50720331 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4309632168802662, guid: a0ccbdd1609cd314d88f26ad3f513777,
@@ -634,6 +638,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &57112361
 GameObject:
   m_ObjectHideFlags: 0
@@ -828,6 +833,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &73720491
 GameObject:
   m_ObjectHideFlags: 0
@@ -932,6 +938,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &76680812
 GameObject:
   m_ObjectHideFlags: 0
@@ -1137,6 +1144,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &117995764
 GameObject:
   m_ObjectHideFlags: 0
@@ -1352,7 +1360,7 @@ RectTransform:
   - {fileID: 1679507638}
   - {fileID: 1668763304}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1463,6 +1471,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!4 &162776605 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4666235189021924, guid: ac6abacf1c61a0c43aa7b8daf206c47b,
@@ -1572,6 +1581,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &168592130
 GameObject:
   m_ObjectHideFlags: 0
@@ -1676,6 +1686,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &170683802
 GameObject:
   m_ObjectHideFlags: 0
@@ -1780,6 +1791,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!4 &174941120 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4666235189021924, guid: ac6abacf1c61a0c43aa7b8daf206c47b,
@@ -1889,6 +1901,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &198125855
 GameObject:
   m_ObjectHideFlags: 0
@@ -1993,6 +2006,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &200826178
 GameObject:
   m_ObjectHideFlags: 0
@@ -2239,6 +2253,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &204941646
 GameObject:
   m_ObjectHideFlags: 0
@@ -2343,6 +2358,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &207024528
 GameObject:
   m_ObjectHideFlags: 0
@@ -2447,6 +2463,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &208347713
 GameObject:
   m_ObjectHideFlags: 0
@@ -2551,6 +2568,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &221663923
 GameObject:
   m_ObjectHideFlags: 0
@@ -2655,6 +2673,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &245144506
 GameObject:
   m_ObjectHideFlags: 0
@@ -2759,6 +2778,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &254687729
 GameObject:
   m_ObjectHideFlags: 0
@@ -2863,6 +2883,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &255934104
 GameObject:
   m_ObjectHideFlags: 0
@@ -2967,6 +2988,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &256997751
 GameObject:
   m_ObjectHideFlags: 0
@@ -3216,6 +3238,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &274474334
 GameObject:
   m_ObjectHideFlags: 0
@@ -3540,6 +3563,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &282250127
 GameObject:
   m_ObjectHideFlags: 0
@@ -3644,6 +3668,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &299266781
 GameObject:
   m_ObjectHideFlags: 0
@@ -3748,6 +3773,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &306996762
 GameObject:
   m_ObjectHideFlags: 0
@@ -3852,6 +3878,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &315529210
 GameObject:
   m_ObjectHideFlags: 0
@@ -4182,6 +4209,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &327582112
 GameObject:
   m_ObjectHideFlags: 0
@@ -4286,6 +4314,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!4 &327605352 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4666235189021924, guid: ac6abacf1c61a0c43aa7b8daf206c47b,
@@ -4395,6 +4424,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &333350859
 GameObject:
   m_ObjectHideFlags: 0
@@ -4573,6 +4603,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &344862905
 GameObject:
   m_ObjectHideFlags: 0
@@ -4766,6 +4797,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &359083435
 Prefab:
   m_ObjectHideFlags: 0
@@ -4921,6 +4953,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &377610896
 GameObject:
   m_ObjectHideFlags: 0
@@ -5025,6 +5058,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &377993596
 GameObject:
   m_ObjectHideFlags: 0
@@ -5129,6 +5163,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &384378219
 Prefab:
   m_ObjectHideFlags: 0
@@ -5407,7 +5442,7 @@ Transform:
   - {fileID: 1850528231}
   - {fileID: 1641126484}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &405174928
 GameObject:
@@ -5513,6 +5548,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &410624699
 GameObject:
   m_ObjectHideFlags: 0
@@ -5691,6 +5727,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &427951431
 GameObject:
   m_ObjectHideFlags: 0
@@ -5795,6 +5832,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &434504441
 GameObject:
   m_ObjectHideFlags: 0
@@ -6039,6 +6077,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &452636782
 Prefab:
   m_ObjectHideFlags: 0
@@ -6194,6 +6233,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &465561879
 GameObject:
   m_ObjectHideFlags: 0
@@ -6298,6 +6338,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &467926761
 GameObject:
   m_ObjectHideFlags: 0
@@ -6402,6 +6443,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &473736647
 GameObject:
   m_ObjectHideFlags: 0
@@ -6812,6 +6854,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &496149544
 GameObject:
   m_ObjectHideFlags: 0
@@ -6916,6 +6959,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &516195846
 GameObject:
   m_ObjectHideFlags: 0
@@ -7020,6 +7064,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &516637908
 GameObject:
   m_ObjectHideFlags: 0
@@ -7267,6 +7312,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &524945165
 GameObject:
   m_ObjectHideFlags: 0
@@ -7371,6 +7417,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &533425190
 GameObject:
   m_ObjectHideFlags: 0
@@ -7459,7 +7506,7 @@ RectTransform:
   - {fileID: 1742296574}
   - {fileID: 1288938580}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -7570,6 +7617,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &544801111
 GameObject:
   m_ObjectHideFlags: 0
@@ -7674,6 +7722,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &552533786
 GameObject:
   m_ObjectHideFlags: 0
@@ -7905,6 +7954,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &557338452
 GameObject:
   m_ObjectHideFlags: 0
@@ -8056,6 +8106,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &560006508
 Prefab:
   m_ObjectHideFlags: 0
@@ -8266,6 +8317,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &592742439
 GameObject:
   m_ObjectHideFlags: 0
@@ -8607,6 +8659,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &624713415
 GameObject:
   m_ObjectHideFlags: 0
@@ -8711,6 +8764,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &633375632
 GameObject:
   m_ObjectHideFlags: 0
@@ -8815,6 +8869,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &638049696
 GameObject:
   m_ObjectHideFlags: 0
@@ -8919,6 +8974,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &641105330
 GameObject:
   m_ObjectHideFlags: 0
@@ -8979,7 +9035,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &644932015
 GameObject:
@@ -9085,6 +9141,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &645466390
 GameObject:
   m_ObjectHideFlags: 0
@@ -9189,6 +9246,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &666713803
 GameObject:
   m_ObjectHideFlags: 0
@@ -9367,6 +9425,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &673954881
 GameObject:
   m_ObjectHideFlags: 0
@@ -9471,6 +9530,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &676075820
 GameObject:
   m_ObjectHideFlags: 0
@@ -9575,6 +9635,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &683368898
 GameObject:
   m_ObjectHideFlags: 0
@@ -9753,6 +9814,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &697702431
 GameObject:
   m_ObjectHideFlags: 0
@@ -9857,6 +9919,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &701017547
 GameObject:
   m_ObjectHideFlags: 0
@@ -10112,6 +10175,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &726930668
 GameObject:
   m_ObjectHideFlags: 0
@@ -10216,6 +10280,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &728162604
 GameObject:
   m_ObjectHideFlags: 0
@@ -10472,6 +10537,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &740116576
 GameObject:
   m_ObjectHideFlags: 0
@@ -10576,6 +10642,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &740672462
 GameObject:
   m_ObjectHideFlags: 0
@@ -10680,6 +10747,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &742832148
 GameObject:
   m_ObjectHideFlags: 0
@@ -10784,6 +10852,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &750058743
 GameObject:
   m_ObjectHideFlags: 0
@@ -10888,6 +10957,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &758361315
 GameObject:
   m_ObjectHideFlags: 0
@@ -11081,6 +11151,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &765719863
 GameObject:
   m_ObjectHideFlags: 0
@@ -11185,6 +11256,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &770945502
 GameObject:
   m_ObjectHideFlags: 0
@@ -11289,6 +11361,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &775866259
 GameObject:
   m_ObjectHideFlags: 0
@@ -11321,7 +11394,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &775866261
 MonoBehaviour:
@@ -11546,6 +11619,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &776854030
 GameObject:
   m_ObjectHideFlags: 0
@@ -11650,6 +11724,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &776972553
 GameObject:
   m_ObjectHideFlags: 0
@@ -11754,6 +11829,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &785934498
 GameObject:
   m_ObjectHideFlags: 0
@@ -11858,6 +11934,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &789354162
 GameObject:
   m_ObjectHideFlags: 0
@@ -12036,6 +12113,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &800154560
 GameObject:
   m_ObjectHideFlags: 0
@@ -12140,6 +12218,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &802255151
 GameObject:
   m_ObjectHideFlags: 0
@@ -12244,6 +12323,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &810541881
 GameObject:
   m_ObjectHideFlags: 0
@@ -12470,6 +12550,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &841036727
 GameObject:
   m_ObjectHideFlags: 0
@@ -12574,6 +12655,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &848062223
 GameObject:
   m_ObjectHideFlags: 0
@@ -12678,6 +12760,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &857648038
 GameObject:
   m_ObjectHideFlags: 0
@@ -12782,6 +12865,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &866192185
 GameObject:
   m_ObjectHideFlags: 0
@@ -13056,6 +13140,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &884054642
 GameObject:
   m_ObjectHideFlags: 0
@@ -13160,6 +13245,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &884971992
 GameObject:
   m_ObjectHideFlags: 0
@@ -13391,6 +13477,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!4 &921585967 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4666235189021924, guid: ac6abacf1c61a0c43aa7b8daf206c47b,
@@ -13500,6 +13587,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &931297793
 GameObject:
   m_ObjectHideFlags: 0
@@ -13604,6 +13692,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &938389426
 GameObject:
   m_ObjectHideFlags: 0
@@ -13708,6 +13797,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &939838122
 Prefab:
   m_ObjectHideFlags: 0
@@ -13970,6 +14060,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &999598381
 GameObject:
   m_ObjectHideFlags: 0
@@ -14074,6 +14165,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!4 &1003625385 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4666235189021924, guid: ac6abacf1c61a0c43aa7b8daf206c47b,
@@ -14465,6 +14557,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!4 &1032954547 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4666235189021924, guid: ac6abacf1c61a0c43aa7b8daf206c47b,
@@ -14574,6 +14667,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1040899553
 GameObject:
   m_ObjectHideFlags: 0
@@ -14678,6 +14772,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1051717920
 GameObject:
   m_ObjectHideFlags: 0
@@ -14706,7 +14801,7 @@ Transform:
   m_Children:
   - {fileID: 1172886457}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1051717922
 MonoBehaviour:
@@ -14862,6 +14957,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1067094816
 GameObject:
   m_ObjectHideFlags: 0
@@ -14966,6 +15062,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1074914786
 GameObject:
   m_ObjectHideFlags: 0
@@ -15070,6 +15167,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1084040286
 GameObject:
   m_ObjectHideFlags: 0
@@ -15174,6 +15272,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1087147421
 GameObject:
   m_ObjectHideFlags: 0
@@ -15278,6 +15377,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!4 &1089598889 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4666235189021924, guid: ac6abacf1c61a0c43aa7b8daf206c47b,
@@ -15387,6 +15487,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1102581959
 GameObject:
   m_ObjectHideFlags: 0
@@ -15491,6 +15592,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1105670064
 GameObject:
   m_ObjectHideFlags: 0
@@ -15778,6 +15880,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1117193691
 GameObject:
   m_ObjectHideFlags: 0
@@ -15882,6 +15985,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1118533952
 GameObject:
   m_ObjectHideFlags: 0
@@ -15986,6 +16090,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1154498868
 GameObject:
   m_ObjectHideFlags: 0
@@ -16090,6 +16195,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1159672449
 GameObject:
   m_ObjectHideFlags: 0
@@ -16321,6 +16427,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1165132419
 GameObject:
   m_ObjectHideFlags: 0
@@ -16799,6 +16906,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1188370077
 GameObject:
   m_ObjectHideFlags: 0
@@ -16862,7 +16970,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 50.000004, y: -60.000004, z: 0}
 --- !u!1001 &1192250883
 Prefab:
@@ -17015,6 +17123,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1203990622
 GameObject:
   m_ObjectHideFlags: 0
@@ -17119,6 +17228,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1215575404
 GameObject:
   m_ObjectHideFlags: 0
@@ -17223,6 +17333,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1222081991
 GameObject:
   m_ObjectHideFlags: 0
@@ -17327,6 +17438,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1223659095
 GameObject:
   m_ObjectHideFlags: 0
@@ -17431,6 +17543,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1242162153
 GameObject:
   m_ObjectHideFlags: 0
@@ -17535,6 +17648,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1243753192
 GameObject:
   m_ObjectHideFlags: 0
@@ -17639,6 +17753,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1259635532
 GameObject:
   m_ObjectHideFlags: 0
@@ -17743,6 +17858,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1261999434
 GameObject:
   m_ObjectHideFlags: 0
@@ -17781,7 +17897,7 @@ Transform:
   - {fileID: 1021077386}
   - {fileID: 488482927}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!4 &1276570060 stripped
 Transform:
@@ -17996,7 +18112,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4855741140080576, guid: eb1731014983f1244bb8eaf057b3a6ca, type: 2}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: eb1731014983f1244bb8eaf057b3a6ca, type: 2}
@@ -18105,6 +18221,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1312932965
 GameObject:
   m_ObjectHideFlags: 0
@@ -18209,6 +18326,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1326681845
 GameObject:
   m_ObjectHideFlags: 0
@@ -18313,6 +18431,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1331191078
 GameObject:
   m_ObjectHideFlags: 0
@@ -18417,6 +18536,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1341242183
 GameObject:
   m_ObjectHideFlags: 0
@@ -18504,7 +18624,7 @@ RectTransform:
   m_Children:
   - {fileID: 2142011865}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -18742,6 +18862,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &1374950019
 Prefab:
   m_ObjectHideFlags: 0
@@ -18897,6 +19018,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1378816529
 GameObject:
   m_ObjectHideFlags: 0
@@ -19070,6 +19192,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1384437990
 GameObject:
   m_ObjectHideFlags: 0
@@ -19174,6 +19297,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1393449132
 GameObject:
   m_ObjectHideFlags: 0
@@ -19278,6 +19402,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1405312811
 GameObject:
   m_ObjectHideFlags: 0
@@ -19382,6 +19507,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1412343433
 GameObject:
   m_ObjectHideFlags: 0
@@ -19486,6 +19612,49 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
+--- !u!1001 &1412789986
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4683855514498052, guid: 8b533ba8b276fcb44aecfab9fab5702f, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -61.869236
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683855514498052, guid: 8b533ba8b276fcb44aecfab9fab5702f, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 12.410431
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683855514498052, guid: 8b533ba8b276fcb44aecfab9fab5702f, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -18.712742
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683855514498052, guid: 8b533ba8b276fcb44aecfab9fab5702f, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683855514498052, guid: 8b533ba8b276fcb44aecfab9fab5702f, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683855514498052, guid: 8b533ba8b276fcb44aecfab9fab5702f, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683855514498052, guid: 8b533ba8b276fcb44aecfab9fab5702f, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683855514498052, guid: 8b533ba8b276fcb44aecfab9fab5702f, type: 2}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 8b533ba8b276fcb44aecfab9fab5702f, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &1422593008
 GameObject:
   m_ObjectHideFlags: 0
@@ -20020,6 +20189,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1474454905
 GameObject:
   m_ObjectHideFlags: 0
@@ -20124,6 +20294,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!4 &1474648205 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4666235189021924, guid: ac6abacf1c61a0c43aa7b8daf206c47b,
@@ -20233,6 +20404,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &1480842128
 Prefab:
   m_ObjectHideFlags: 0
@@ -20388,6 +20560,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1494975915
 GameObject:
   m_ObjectHideFlags: 0
@@ -20492,6 +20665,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1497740269
 GameObject:
   m_ObjectHideFlags: 0
@@ -20596,6 +20770,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &1499434520
 Prefab:
   m_ObjectHideFlags: 0
@@ -20751,6 +20926,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1502526453
 GameObject:
   m_ObjectHideFlags: 0
@@ -20855,6 +21031,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1516151417
 GameObject:
   m_ObjectHideFlags: 0
@@ -20959,6 +21136,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1518053918
 GameObject:
   m_ObjectHideFlags: 0
@@ -21063,6 +21241,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1524216685
 GameObject:
   m_ObjectHideFlags: 0
@@ -21167,6 +21346,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1527282498
 GameObject:
   m_ObjectHideFlags: 0
@@ -21271,6 +21451,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1534328765
 GameObject:
   m_ObjectHideFlags: 0
@@ -21375,6 +21556,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1541149063
 GameObject:
   m_ObjectHideFlags: 0
@@ -21479,6 +21661,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1543175689
 GameObject:
   m_ObjectHideFlags: 0
@@ -21583,6 +21766,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &1543534705
 Prefab:
   m_ObjectHideFlags: 0
@@ -21620,7 +21804,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4696886250616054, guid: 3833db4f9d97bbb41bc20eaa2e77eea2, type: 2}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4696886250616054, guid: 3833db4f9d97bbb41bc20eaa2e77eea2, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -21733,6 +21917,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1554152925
 GameObject:
   m_ObjectHideFlags: 0
@@ -21837,6 +22022,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &1554214705
 Prefab:
   m_ObjectHideFlags: 0
@@ -21992,6 +22178,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1564922303
 GameObject:
   m_ObjectHideFlags: 0
@@ -22189,6 +22376,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1587205691
 GameObject:
   m_ObjectHideFlags: 0
@@ -22293,6 +22481,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1591831406
 GameObject:
   m_ObjectHideFlags: 0
@@ -22397,6 +22586,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1602362504
 GameObject:
   m_ObjectHideFlags: 0
@@ -22501,6 +22691,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1607912698
 GameObject:
   m_ObjectHideFlags: 0
@@ -22605,6 +22796,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1611588910
 GameObject:
   m_ObjectHideFlags: 0
@@ -22861,6 +23053,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1617177770
 GameObject:
   m_ObjectHideFlags: 0
@@ -22965,6 +23158,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1618143826
 GameObject:
   m_ObjectHideFlags: 0
@@ -23069,6 +23263,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1624240798
 GameObject:
   m_ObjectHideFlags: 0
@@ -23173,6 +23368,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!4 &1624986566 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4696886250616054, guid: 3833db4f9d97bbb41bc20eaa2e77eea2,
@@ -23282,6 +23478,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1641126483
 GameObject:
   m_ObjectHideFlags: 0
@@ -23386,6 +23583,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1646472756
 GameObject:
   m_ObjectHideFlags: 0
@@ -23474,7 +23672,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 74.8, y: 0, z: 0}
 --- !u!114 &1646472762
 MonoBehaviour:
@@ -23596,6 +23794,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1650753986
 GameObject:
   m_ObjectHideFlags: 0
@@ -23782,6 +23981,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1661888972
 GameObject:
   m_ObjectHideFlags: 0
@@ -23886,6 +24086,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1665953435
 GameObject:
   m_ObjectHideFlags: 0
@@ -23990,6 +24191,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1668763303
 GameObject:
   m_ObjectHideFlags: 0
@@ -24167,6 +24369,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1679507637
 GameObject:
   m_ObjectHideFlags: 0
@@ -24309,7 +24512,7 @@ RectTransform:
   - {fileID: 57112362}
   - {fileID: 1912707454}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -24420,6 +24623,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1689552715
 GameObject:
   m_ObjectHideFlags: 0
@@ -24750,6 +24954,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1729976804
 GameObject:
   m_ObjectHideFlags: 0
@@ -24854,6 +25059,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1740018370
 GameObject:
   m_ObjectHideFlags: 0
@@ -24958,6 +25164,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1742296573
 GameObject:
   m_ObjectHideFlags: 0
@@ -25164,6 +25371,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1754068456
 GameObject:
   m_ObjectHideFlags: 0
@@ -25342,6 +25550,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1771865518
 GameObject:
   m_ObjectHideFlags: 0
@@ -25391,7 +25600,7 @@ Transform:
   - {fileID: 1276570060}
   - {fileID: 1032954547}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1778853040
 GameObject:
@@ -25586,6 +25795,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1810028815
 GameObject:
   m_ObjectHideFlags: 0
@@ -25765,6 +25975,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1825281639
 GameObject:
   m_ObjectHideFlags: 0
@@ -25869,6 +26080,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1850528230
 GameObject:
   m_ObjectHideFlags: 0
@@ -25973,6 +26185,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1851897139
 GameObject:
   m_ObjectHideFlags: 0
@@ -26077,6 +26290,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1854891252
 GameObject:
   m_ObjectHideFlags: 0
@@ -26181,6 +26395,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1855371217
 GameObject:
   m_ObjectHideFlags: 0
@@ -26285,6 +26500,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1855546069
 GameObject:
   m_ObjectHideFlags: 0
@@ -26446,6 +26662,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1870520838
 GameObject:
   m_ObjectHideFlags: 0
@@ -26550,6 +26767,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1878273206
 GameObject:
   m_ObjectHideFlags: 0
@@ -26654,6 +26872,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1883101474
 GameObject:
   m_ObjectHideFlags: 0
@@ -26840,6 +27059,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1001 &1896736437
 Prefab:
   m_ObjectHideFlags: 0
@@ -26877,7 +27097,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4559181231915528, guid: 952624e8712414d41b336083fb465f87, type: 2}
       propertyPath: m_RootOrder
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 4559181231915528, guid: 952624e8712414d41b336083fb465f87, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -26990,6 +27210,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1906091124
 GameObject:
   m_ObjectHideFlags: 0
@@ -27094,6 +27315,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1908964250
 GameObject:
   m_ObjectHideFlags: 0
@@ -27360,7 +27582,7 @@ RectTransform:
   - {fileID: 552533787}
   - {fileID: 1165132420}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -27471,6 +27693,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1932262507
 GameObject:
   m_ObjectHideFlags: 0
@@ -27655,6 +27878,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1967125626
 GameObject:
   m_ObjectHideFlags: 0
@@ -27759,6 +27983,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1974170105
 GameObject:
   m_ObjectHideFlags: 0
@@ -27863,6 +28088,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1981363834
 GameObject:
   m_ObjectHideFlags: 0
@@ -27967,6 +28193,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1988825797
 GameObject:
   m_ObjectHideFlags: 0
@@ -28071,6 +28298,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &1997879556
 GameObject:
   m_ObjectHideFlags: 0
@@ -28175,6 +28403,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2001179707
 GameObject:
   m_ObjectHideFlags: 0
@@ -28279,6 +28508,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2002934237
 GameObject:
   m_ObjectHideFlags: 0
@@ -28551,6 +28781,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2029705668
 GameObject:
   m_ObjectHideFlags: 0
@@ -28655,6 +28886,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2035999337
 GameObject:
   m_ObjectHideFlags: 0
@@ -28759,6 +28991,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2042912510
 GameObject:
   m_ObjectHideFlags: 0
@@ -28863,6 +29096,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2044103224
 GameObject:
   m_ObjectHideFlags: 0
@@ -28967,6 +29201,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2050259428
 GameObject:
   m_ObjectHideFlags: 0
@@ -29071,6 +29306,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2053539921
 GameObject:
   m_ObjectHideFlags: 0
@@ -29175,6 +29411,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2080285777
 GameObject:
   m_ObjectHideFlags: 0
@@ -29443,6 +29680,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2109523305
 GameObject:
   m_ObjectHideFlags: 0
@@ -29547,6 +29785,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2123882013
 GameObject:
   m_ObjectHideFlags: 0
@@ -29651,6 +29890,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2135304670
 GameObject:
   m_ObjectHideFlags: 0
@@ -29755,6 +29995,7 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0
 --- !u!1 &2142011864
 GameObject:
   m_ObjectHideFlags: 0
@@ -29961,3 +30202,4 @@ MonoBehaviour:
     prefabMejora: {fileID: 0}
     costeMejora: 0
   estaMejorada: 0
+  esMejorable: 0

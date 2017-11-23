@@ -121,6 +121,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5427fb5903b11654380a5fa06ae57655, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  type: Missile
   "da\xF1o": 60
   velocidad: 30
   radioExplosion: 15

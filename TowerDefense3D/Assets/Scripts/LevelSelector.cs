@@ -32,5 +32,6 @@ public class LevelSelector : MonoBehaviour {
     /// <param name="nombreNivel"></param>
     public void Seleccionar(string nombreNivel) {
         fader.FadeTo(nombreNivel);
+        FindObjectOfType<AudioManager>().Play("Click");
     }
 }

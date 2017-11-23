@@ -5,6 +5,7 @@ using UnityEngine;
 public class Bullet : MonoBehaviour {
 
     [Header("Atributos")]
+    public string type;
     public int daño = 50;
     public float velocidad = 70f;           // Velocidad de movimiento de la bala
     public float radioExplosion = 0f;       // Radio de efecto del proyectil
@@ -62,6 +63,12 @@ public class Bullet : MonoBehaviour {
     void Impacto() {
         // Instanciamos como un nuevo objeto el ParticleSystem de efecto de impacto
         GameObject instanciaObj = (GameObject)Instantiate(efectoImpactoBala, transform.position, transform.rotation);
+        // Si la instancia 
+        if (type == "Missile")
+        {
+            FindObjectOfType<AudioManager>().Play("MissileExplosion");
+        }
+
         // Destruimos el efecto de particulas con un delay
         Destroy(instanciaObj, delayDestruccion);
 

@@ -22,4 +22,16 @@ public class PlayerManager : MonoBehaviour {
         Vidas = vidasIniciales;
         Rondas = 0;
     }
+
+    /// <summary>
+    /// Cheat
+    /// </summary>
+    void Update()
+    {
+        // Cheat Mode
+        if (Input.GetKeyDown(KeyCode.M))
+        {
+            Dinero += 1000;
+        }    
+    }
 }

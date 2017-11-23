@@ -62,6 +62,7 @@ public class NodeUI : MonoBehaviour {
     /// Funcion que llamamos con el boton de vender la torreta
     /// </summary>
     public void Vender() {
+        FindObjectOfType<AudioManager>().Play("Sell");
         objetivo.VenderTorreta();
         BuildManager.BM.Desseleccionar();
     }

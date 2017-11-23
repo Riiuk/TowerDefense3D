@@ -92,6 +92,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5427fb5903b11654380a5fa06ae57655, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  type: Bullet
   "da\xF1o": 25
   velocidad: 50
   radioExplosion: 0

@@ -161,6 +161,8 @@ public class Turret : MonoBehaviour {
         GameObject balaGO = (GameObject)Instantiate(prefabBala, puntoDisparo.position, puntoDisparo.rotation);
         // Llamamos al componente Bullet
         Bullet bala = balaGO.GetComponent<Bullet>();
+
+        FindObjectOfType<AudioManager>().Play("Shoot");
         // Si el componente bala no esta vacio, llamamos a la función buscar asignandole el target actual del disparo
         if (bala != null) {
             bala.Buscar(objetivo);
@@ -188,7 +190,6 @@ public class Turret : MonoBehaviour {
             efectoImpacto.Play();
             efectoLuz.enabled = true;
         }
-
         // Asignamos la primera posicion del LineRenderer sobre el punto establecido de disparo 
         lineRenderer.SetPosition(0, puntoDisparo.position);
         // Asignamos la segunda posicion del LineRenderer sobre el objetivo de la torreta
@@ -206,6 +207,7 @@ public class Turret : MonoBehaviour {
     /// </summary>
     void DañoLaser() {
         objetivoEnemy.RecibirDaño(dañoEnTiempo * Time.deltaTime);
+        FindObjectOfType<AudioManager>().Play("Laser");
     }
 
     /// <summary>

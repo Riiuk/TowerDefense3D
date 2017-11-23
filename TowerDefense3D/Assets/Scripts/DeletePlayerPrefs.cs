@@ -12,16 +12,19 @@ public class DeletePlayerPrefs : MonoBehaviour {
     public SceneFader fader;
 
     public void DeleteDATA() {
+        FindObjectOfType<AudioManager>().Play("Click");
         PlayerPrefs.DeleteAll();
         noticePanel.SetActive(false);
         fader.FadeTo(nombreMenu);
     }
 
     public void DeleteButton() {
+        FindObjectOfType<AudioManager>().Play("Click");
         noticePanel.SetActive(true);
     }
 
     public void Cancel() {
+        FindObjectOfType<AudioManager>().Play("Click");
         noticePanel.SetActive(false);
     }
 }
